@@ -83,10 +83,18 @@ __(1) 밀도 레벨별 특성__
 
 __(2) 강남구 인구 대비 시설 수의 군집화__
 
+
+![image](https://github.com/taeyoongit/zerobase_ML_project/assets/135580777/ba50c821-3582-49dc-966d-bd01a9b0ab00)
+
+
 - 강남역 주변 : 밀도 감소
 - 수서역 주변 : 밀도 증가
 
 __(3) 지하철역의 밀도 레벨과 주변 시설, 승객 수__
+
+
+![image](https://github.com/taeyoongit/zerobase_ML_project/assets/135580777/ceea8962-a2f3-4703-96a2-6b0ee6fb8709)
+
 
 - 지하철역 승객 수가 높을 수록 밀도 레벨이 높은 경향
 
