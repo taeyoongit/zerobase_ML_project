@@ -41,7 +41,9 @@ EDA, 지도 학습 등 다양한 방법을 강구하였음.
 
 ## 🔧 Problem definition
 
+
 ![image](https://github.com/taeyoongit/zerobase_ML_project/assets/135580777/f6028277-cd3a-462e-97f3-b507e44e85f1)
+
 
 - 문제 인식 : 서울 최고 상권인 강남 지역의 상가 공실률 증가
 - 목표 : 비지도 학습으로 강남구 시설 밀집도를 분석하여 부동산과 도시개발에 대한 인사이트 제공
