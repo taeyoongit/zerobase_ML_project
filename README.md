@@ -47,7 +47,7 @@ EDA, 지도 학습 등 다양한 방법을 강구하였음.
 
 ## 📝 Result
 
-![](https://velog.velcdn.com/images/hsty94/post/21240a99-a481-4f06-a92e-1fd4b42e7f38/image.png)
+![image](https://github.com/taeyoongit/zerobase_ML_project/assets/135580777/4c0376d0-f124-40f9-a13f-d714baa84432)
 
 - 밀도 레벨을 구분하여 시설 밀집도가 높은 곳과 낮은 곳을 다섯 단계로 구분
 
